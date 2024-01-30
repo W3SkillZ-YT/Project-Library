@@ -5,5 +5,6 @@ ALL POSSIBLY DANGEROUS FILES WILL BE LISTED HERE!!!
 
 Possibly harmful:
 - GDI Shader.exe
+- File debugger simulator.exe (if choosed SYSTEM file [NOT RECOMMENDED!!!])
 
 THE CREATOR WONT BE RESPONSIBLE FOR ANY DAMAGE THAT MIGHT OCCURED!
